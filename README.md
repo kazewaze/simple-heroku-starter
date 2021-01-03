@@ -4,6 +4,8 @@
 
 A bare bones starter for someone wanting to build an express app hosted on heroku.
 
+[If bare bones sounds like a drag, here is a more feature rich starter from the heroku folks themselves and a guide to go along with it.](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
 Before beginning make sure you complete these requirements:
 - [Create a free heroku account](https://signup.heroku.com)
 - [Install the heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
