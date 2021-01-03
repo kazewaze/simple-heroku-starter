@@ -14,7 +14,7 @@ To get rolling with this simple starter just follow these steps:
 1. Clone repo or download zip file.
 2. Open Command line and navigate to the root directory (ex: $ ```cd simple-heroku-starter```).
 3. Enter```git init && git add . && git commit -m "first commit``` into command line.
-4. Enter ```heroku login``` into command line and login to your heroku account.
+4. Now enter ```heroku login``` and login to your heroku account.
 5. Once logged in enter ```heroku create``` or for a desired app name -->```heroku create <your-app-name>```.
 6. Now enter ```git push heroku main``` and your app will be live shortly! Now edit the code and get to building your app!
 7. Have Fun!
